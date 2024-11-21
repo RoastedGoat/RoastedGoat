@@ -2,8 +2,8 @@
 
 I am a developer that uses
 
-  Python
+  > Python
   
-  HTML
+  > HTML
   
-  CSS/
+  > CSS

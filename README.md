@@ -1,6 +1,9 @@
 # Hello!
 
-I am a developer that uses/
-  Python/
-  HTML/
+I am a developer that uses
+
+  Python
+  
+  HTML
+  
   CSS/
